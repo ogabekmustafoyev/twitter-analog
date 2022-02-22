@@ -1,0 +1,7 @@
+.app {
+  margin: 50px 150px;
+  min-width: 80px;
+  box-shadow: 1px 8px 16px rgba(0, 0, 0, 0.6);
+  background-color: white;
+  padding: 20px;
+}
